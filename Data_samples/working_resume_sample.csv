@@ -1,0 +1,341 @@
+﻿Resume_title,City,State,Description,work_experiences,Educations,Skills,Links,Certificates,Additional Information
+Java devloper,Mumbai, Maharashtra,"To work in a professionally managed company with responsibility and challenge where I can use my 
+knowledge and skills to provide quality solutions to clients while enhancing own skills with job 
+satisfaction and scope for personal development and growth.","{0: [{'wtitle:': 'Java Developer'}, {'wcompany:': 'Marketplace Technologies'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'June 2017 to Present'}, {'wdescr:': 'Java developer'}], 1: [{'wtitle:': 'Php Developer'}, {'wcompany:': 'Beyond Pixels'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'September 2016 to June 2017'}, {'wdescr:': 'Php devloper'}]}","{0: [{'e_title:': 'B.Sc'}, {'e_schoolname:': 'Mumbai University'}, {'e_city:': 'Mumbai'}, {'e_state:': ' Maharashtra'}, {'e_duration:': '2015'}], 1: [{'e_title:': 'H.S.C.'}, {'e_schoolname:': 'Maharashtra Board'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2011'}], 2: [{'e_title:': 'S.S.C'}, {'e_schoolname:': 'Maharashtra Board'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2009'}]}","['ECLIPSE', ' JAVA', ' JAVA TECHNOLOGIES', ' SPRING', ' jQuery']",[],{},"
+TECHNICAL KNOWLEDGE 
+ 
+JAVA Technologies Core Java, Jsp, Servlet, Collection Framework, Spring. 
+Database MySQL. 
+Web Technologies JSP, SERVLET, AJAX, Jquery, Javascript, CSS, PHP. 
+Tools Edit Plus, Eclipse. 
+Server Apache Tomcat"
+NONE,Mumbai, Maharashtra,NONE,"{0: [{'wtitle:': 'PHP Developer'}, {'wcompany:': 'Exp'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'February 2019 to Present'}, {'wdescr:': 'Des.: Full Stack Dev. \nLocation: sakinaka Andheri East \nCompany: thriam digitomation \nNotice Period: 15days'}], 1: [{'wtitle:': 'PHP Web Developer'}, {'wcompany:': 'Adnac Business Solutions LLP '}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'July 2018 to January 2019'}, {'wdescr:': 'E) \nCompany: Adnac Business Solutions LLP.'}], 2: [{'wtitle:': 'Web Designer & Developer'}, {'wcompany:': 'sam web solutions '}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'January 2017 to June 2018'}, {'wdescr:': 'NONE'}]}","{0: [{'e_title:': 'B.A'}, {'e_schoolname:': 'CSJM UNIVERSITY'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2010 to 2013'}]}","['HTML5', ' CSS3', ' JavaScript', ' Bootstrap and Jquery PHP', ' Codeigniter', ' Laravel Ajax', ' React (Learning Period)', ' Api integration', ' MySql', '']",[],{},NONE
+Data Scientist,Pune, Maharashtra,"Machine Learning Engineer and Software developer with over 3+ 
+years of programming experience, who found his true passion for 
+Machine Learning. 
+âœ“ Fluent in Python. 
+âœ“ Experienced in Machine Learning, NLP, Django/Flask, REST 
+APIs, Web Scraping, Regex. 
+âœ“ Strong knowledge of object-oriented and functional programming 
+paradigms. 
+âœ“ Experience working with cloud services. (AWS/Azure) 
+My experiences range from cutting-edge research in core NLP 
+tasks (i.e., text extraction, sentiment analysis, chatbot development, and semantic understanding) to machine learning for predictive 
+modeling (i.e., visitor count prediction, applying deep learning 
+models, sequence labeling etc). 
+It is important for me to build a long-term relationship with my clients, so I am primarily looking for long-term gigs where I can bring a 
+project from beginning to production and beyond.","{0: [{'wtitle:': 'Chief Data Scientist'}, {'wcompany:': 'glasssquid.io'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'January 2019 to Present'}, {'wdescr:': 'Helping cybersecurity professionals achieve their career objectives by \nharnessing the power of technology.'}], 1: [{'wtitle:': 'Machine Learning Engineer'}, {'wcompany:': 'Mesh Education Inc'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'April 2017 to January 2019'}, {'wdescr:': 'Mesh is San Diego based startup they are creating real-time feedback platform \nthat uses advanced Statistical NLP algorithms to optimize presentations in real-time. In the sphere of higher education, it takes the form of telling the professors where to focus their teaching efforts in real-time so that they can \nutilize precious lecture time to the fullest!'}], 2: [{'wtitle:': 'Professional Freelancer | Machine Learning Engineer'}, {'wcompany:': 'Mesh Education Inc'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'June 2017 to July 2017'}, {'wdescr:': 'Fragments is an AI Personal Assistant that remembers everything you tell it. I \nwas working as a Data Scientist, I have worked on: \n-- Cluster Analysis of Memories. \n-- Experimented with Different Vectorizing Techniques (TDIDF, word2vec, doc2vec etc). \n-- Developed a Close-Domain Generative-based Chatbot for Small Talk(Fun Conversation).'}]}","{0: [{'e_title:': 'Bachelor of Technology in (BTech), Electronic and Communication'}, {'e_schoolname:': 'Indian Institute of Technology (Indian School of Mines)'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2014 to 2018'}]}","['NLP', ' NOSQL', ' SENTIMENT ANALYSIS', ' TEXT ANALYTICS']","['http://www.hackerrank.com/bsatyarthi', 'https://www.linkedin.com/in/bsat007', 'http://www.hackerrank.com/bsatyarthi', 'https://www.linkedin.com/in/bsat007']",{},"
+Skills 
+ 
+âœ“ Text Analytics using various NLP toolkits(NLTK, Spacy, CoreNLP) 
+âœ“ Data cleaning and wrangling 
+âœ“ Cluster Analysis. 
+âœ“ Building ML pipelines using Sklearn, Tensorflow, and Keras. 
+âœ“ Retrieval-based Chatbot using Dialogflow. 
+âœ“ Q&A System. 
+âœ“ Sentiment Analysis. 
+âœ“ Designing Database(SQL, NoSQL) 
+âœ“ Building RESTful APIs using Django REST Framework and Flask. 
+âœ“ Integrating RESTful APIs. 
+âœ“ Implementing a WebSocket connection using Django Channels. 
+âœ“ Web Scraping using BeautifulSoup, Scrapy, and Selenium. 
+âœ“ Building Regular Expression and Text Extraction. 
+âœ“ Serverless Function/Azure/AWS/Lambda Function 
+ 
+Feel free to get in touch and I'll be glad to discuss the details of your 
+project. 
+ 
+(Other) 
+Top Skills 
+Python 
+C++ 
+C"
+Project Manager,Pune, Maharashtra,"Core Competencies 
+Creative and multi-disciplinary executive renowned with nearly 15+ years 
+Project Agile, DevOPS, 
+of IT software experience in leading end-to-end IT software project and 
+Management Waterfall 
+program management 
+Diligent Project manager offering a proven track record of successfully 
+leading all phases of diverse technology software projects. Successfully 
+People Project Budget 
+delivered high-quality deliverables that meet or exceed timeline and 
+management Management 
+budgetary targets. 
+Responsible for software delivery of complex software project involving 
+multiple scrum teams working in parallel. 
+Expert in Agile (scrum) scrum master and waterfall project management Stakeholder Incident 
+Management management 
+methodologies. In depth knowledge of DevOPS. Experience in projects using 
+CI (Continuous Integration) and CD (Continuous delivery). 
+Certified Scrum master. Successfully delivered project which involves Risk Team Building 
+multiple scrum teams. In depth knowledge of Scrum ceremonies, values. Management 
+Currently Handling project with migration towards Cloud platform 
+Microsoft azure with a complex, large database and different ERP systems. 
+Lead project to make existing sites Responsive following latest guidelines 
+Lead team using a servant leadership style and leading by example. Good 
+skills and knowledge of servant leadership, facilitation, situational Soft Skills 
+awareness, conflict resolution, continual improvement, empowerment, and 
+increasing transparency. 
+Showcased excellent People management skills by directing large teams 
+multiple projects, both on-shore and offshore, in a global work 
+environment. 
+Developed software solutions in various domains Automotive, Security 
+Systems (CCTV, Fire, and Intrusion systems), Conferencing Systems 
+(Digital Conference Network). Leader 
+5 years of experience in developing E-Commerce solutions in various 
+domains. 
+Gained extensive exposure in working across multiple geographies client 
+locations e.g. USA, Germany, Japan 
+Defined processes and tools best suited to each project. Moved between 
+agile and waterfall approaches depending on project specifics and client 
+goals, creating detailed project road maps, plans, schedules and work 
+breakdown structures 
+Excellent communicator; leverage technical, business and financial 
+acumen to communicate effectively with client executives and their 
+respective teams. In depth experience in handling business stakeholders. 
+Focused teams on business objectives and tracked progress to ensure 
+project milestones were completed on time, on budget and with the desired 
+results 
+9 years strong technical hands on experience in various web based and 
+windows applications like ASP.NET, C#.NET, VB.NET, LINQ, Entity 
+Framework, ADO.NET, HTML, CSS, XML, JavaScript, and AJAX. 
+Associated and directed support teams like build and release, Quality 
+control for implementing processes to bring efficiency in software delivery. 
+Monitoring team to place 24*7 monitors to site. 
+In depth knowledge and implementation of software compliance like 
+Open source software, Security and Legal Compliance","{0: [{'wtitle:': 'Senior IT Project Manager'}, {'wcompany:': 'Bosch Limited'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'January 2018 to Present'}, {'wdescr:': ""Cost: $300K \nTeam Size: 15 \nDescription: \nSRS is primarily an AA-AS e-commerce solution catering to 30+ OEMs. SRS is a suite of applications that support the facilitation of the repair tool lifecycle, including initial creation, marketing, sales & fulfilment, and the customer's inventory \nmanagement. This suite together will contain 90+ URL's. \n \nSRS is in transition phase. Project is moving towards Microsoft azure and make is responsive. Currently 3 scrum teams are \ncreated to handle this transition. The team are created strategically so as to deliver customer commitments as well as smooth transition. I have created the strategy as a delivery manager. \n \nI am also responsible to handle APAC / EMEA region business customers. \n \nTitle: ServiceAccel""}], 1: [{'wtitle:': 'Senior IT Project Manager'}, {'wcompany:': 'Bosch Limited '}, {'wcity:': ' Pune'}, {'wstate:': ' Maharashtra'}, {'wduration:': 'June 2016 to Present'}, {'wdescr:': 'Cost: $100K \nTeam Size: 20+ \nDescription: \nServiceAccel is an integrated customer service portal that aims to provide a one stop shop for addressing service needs of both OE and IAM Customers across all products supported by the global AA-AS business. \n \nServiceAccel is platform developed to cater automotive aftermarket tool registration and ticketing needs of AA-AS. The \nplatform supports multiple brands. Every brand points to same code base which is CORE. Brand has some pages which are \ncustomized for its needs like home page. The business commitment was to make new brand ready within 2 weeks. The core \nplatform is designed to be configuration driven means admin can configure its brand. Admin can configured the URL, \nDatabase, screens, configuration value shown, contact us even the theme of platform. The crux of SA is its core platform which is created as configuration driven software. \n \nSA is mixed distributed team based in Pune and USA. As a senior IT project manager, I was managing CORE Project. My \nresponsibility included to make sure that platform releases are aligned as per Implementation schedule and lead / guide \nother leads for their releases. \nThis project was built from scratch from concept, design, implementation, testing, deployment, infrastructure setup to live. I \nplayed critical role in all these phases. The major challenge was to build on time quality software platform with uncertain \nrequirements, diversified team placed in various geographical location, with changing business scenarios and needs. \n \nDevelopers and technical architect who were working from onsite (US) in my team. Multiple teams like Quality control, \nquality assurance, build and release, infrastructure are were of SA. My responsibility included coordinate and give \ndirections to these teams as per release calendar and was directly responsible for on time and quality software delivery. \n \nTitle: DES Quote'}], 2: [{'wtitle:': 'Senior Project Manager'}, {'wcompany:': 'Bosch Limited'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'April 2005 to Present'}, {'wdescr:': 'NONE'}], 3: [{'wtitle:': 'IT Project Manager'}, {'wcompany:': 'Bosch Limited'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'June 2014 to June 2016'}, {'wdescr:': 'Description: DES Quote is used by ASM (area sales manager) from Bosch / Ford to create Quotes. Quote will be created for \nDealers/Distributers. Quote contains list of different automotive products e.g. Wheel Aligner, Air cooler \n \nTitle: Depot Repair \n \nClient: Bosch Automotive After Market, Livonia, North AMERICA \nRole: IT Project Manager \nPeriod: JUN2014 - JUN 2016 \nDescription: Depot Repair is designed to cater service needs of service technicians in automotive workshop. \n \nTitle: Remote Programming Software For MAP'}], 4: [{'wtitle:': 'IT Project Manager'}, {'wcompany:': 'Bosch Limited '}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'January 2009 to April 2014'}, {'wdescr:': 'Description: The RPS for MAP is software to configure the MAP Panel. MAP panel is combination of intrusion and fire \nsystem. MAP is intended midsized installation. \n \nTitle: Remote Programming Software'}], 5: [{'wtitle:': 'IT Project Manager'}, {'wcompany:': 'Bosch Limited'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'January 2005 to April 2014'}, {'wdescr:': 'Description: RPS is software for 40+ security panels. These are combination of intrusion, fire panels of Bosch security \nsystem ranging from small, medium to large panels. The software supported panel configuration, data upload / download, \ndiagnostics, health check. The system was developed such a way that new panel can be added quickly using the existing \ntemplate. The software installation was one click meaning on single click of user software along with all its required \ncomponents and dependency will get installed \n \nTitle: GLM100C'}], 6: [{'wtitle:': 'IT Project Manager'}, {'wcompany:': 'Bosch Limited '}, {'wcity:': ' FRANKFURT'}, {'wstate:': ' DE'}, {'wduration:': 'January 2013 to June 2013'}, {'wdescr:': 'Description: GLM100C is a diagnosis software for bosch power tools. The software also contained windows custom USB \ndriver development. This software was released worldwide and developed in 20+ different languages. \n \nTitle: Digital Congress Network'}], 7: [{'wtitle:': 'Developer'}, {'wcompany:': 'Bosch Limited '}, {'wcity:': ' Breda'}, {'wstate:': ' NL'}, {'wduration:': 'April 2005 to December 2005'}, {'wdescr:': ""Description: Conference system designed for configuration and real time monitoring of conference equipment's""}], 8: [{'wtitle:': 'developer'}, {'wcompany:': 'CG Core EL Limited '}, {'wcity:': ' Pune'}, {'wstate:': ' Maharashtra'}, {'wduration:': 'March 2004 to March 2005'}, {'wdescr:': 'Key Result Areas: \nCustomer / Business Engagement: Maintaining a continuous engagement with customers and support them to Go Live. \nSoftware Delivery Management - Leading multiple scrum teams working for same product for successful project \ndelivery. \nSoftware Project Management - Implementing project planning from scope management, to activity sequencing, \neffort & cost estimation, risk analysis to quality management in adherence with organizational guidelines and norms \nSoftware Program management - Lead project managers for successful program delivery. \nCollaboration: Managing effective collaboration across different portfolio / competency teams. \nBaseline Controlling: Developing project / program baselines; monitoring & controlling projects with respect to cost, \nresource deployment, time overruns and quality compliance to ensure satisfactory execution of projects \nStakeholder Management - Communicating with internal/external clients to determine specific requirements and expectations and managing client expectations as and when needed \nBudget Management - Executing cost saving techniques / measures and modifications to achieve substantial \nreduction in expenditures and projects within the budget \nTraining Management - Leading employee training and development division by monitoring competency grids and identifying training needs for skill / competency up-gradation \nChange Management - Anticipated and managed change effectively in rapidly evolving global business environments'}]}","{0: [{'e_title:': 'B.E'}, {'e_schoolname:': 'Walchand Institute of Technology'}, {'e_city:': 'Solapur'}, {'e_state:': ' Maharashtra'}, {'e_duration:': '2003'}]}","['MACHINE LEARNING', ' .NET', ' C#', ' WCF', ' WPF']",[],{},"
+IT Skills 
+Project Management Tools: Microsoft Project, Plan View, JIRA, Confluence,Radar,Prime 
+Project Methodology: Agile (Scrum), Kanban, Waterfall, DevOPS. 
+Program Management Tools: Plan view, vision quest. 
+Technology: Web, Windows, C# .NET, WPF, WCF 
+Technology Interest: Artificial Intelligence, Machine Learning, Big Data, Internet of things, Cloud computing, Virtual 
+Reality, Augmented Reality"
+Project Manager - Scrum Master,Hyderabad, Telangana,NONE,"{0: [{'wtitle:': 'Project Manager'}, {'wcompany:': 'Scrum Master '}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'February 2018 to Present'}, {'wdescr:': 'Hyderabad, India \n \nAs part of Salesforce ""SOX"" Project, we ensured the Oracle custom components are SOX Compliant. This gives auditors the ability to track and trace changes made in Salesforce org that might be considered to have an impact on financial reporting. In this project we did enhancements to custom objects to ensure Finance related reports are Sox complaint and automated the interfaces from different vendors to SFDC like FCM and Concur. The project is using Agile methodology. Key activities included during this project period: \n \nâ€¢ Scrum Master for the project. Conducting Daily stand up call, Planning, Estimation and Retrospective for sprints. \nâ€¢ Status tracking and updating to SFDC management. \nâ€¢ Actively involved in analysis of Finance impacted report and reviewer of code after modification. \nâ€¢ Got Infosys ""Insta"" award in 2018 for excellent execution of project.'}], 1: [{'wtitle:': 'Technology Architect'}, {'wcompany:': 'Scrum Master '}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'May 2015 to December 2017'}, {'wdescr:': 'Hyderabad, India \n \nCISCO India GST project is a R12 Cisco Service Supply Chain project to implement GST related changes for CISCO India operating unit. In this project we configured GST related setups, enhancements to custom objects to ensured there is no impact on the Finance related reports and also made changes to interfaces so accounting entries are correct for Cisco India operating units. The project is using Agile methodology. Key activities included during this project period: \n \nâ€¢ Scrum Master for the project. Conducting Daily stand up call, Planning, Estimation and Retrospective for sprints. \nâ€¢ Technical project manager for the India GST project for CISCO Services team. \nâ€¢ Responsible for managing a big team of Oracle developers/Business analysts and QA resources at offshore. \nâ€¢ Coordination with third party groups for debugging any technical issue in test/stage/production environment. \nâ€¢ Agile Rally Velocity calculation for sprint, User Story creation, assigning and tracking user story on daily basis. \nâ€¢ Actively involved in analysis of Finance impacted report because of GST change and reviewer of code after modification. \nâ€¢ Got Infosys Insta award in 2017 for excellent execution of project.'}], 2: [{'wtitle:': 'Technology Architect'}, {'wcompany:': 'Fisher Controls International LLC'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'September 2010 to April 2015'}, {'wdescr:': 'Marshalltown, USA \n \nFisher Controls International, a division of Emerson Process Management, is in the process of replacing its legacy system with the Oracle ERP package. The project involves implementation of Finance (GL, AP, AR and Costing), distribution (OM, PO) and manufacturing modules (Inventory, WIP, BOM and ASCP) to each of the Fisher plants across the globe. Each site implementation involves demo of global design solution, capture site specific requirements, conduct conference room pilot, development of reports and interfaces, integration testing, data migration, user acceptance testing, and cutover to production and support. Key activities included during this period: \n \nâ€¢ Technical track Lead for the Oracle E-Business Suite implementation of the client biggest manufacturing facility at Marshalltown- Nov 2013 \nâ€¢ Support Lead post implementation of the manufacturing plant at Sherman, TX - Dec 2011 \nâ€¢ Implemented and supported the manufacturing facility at Hungary - Nov 2011 \nâ€¢ Responsible for managing a team of 28 Oracle developers and 6 WEB developers during the end to end implementation of a manufacturing plant at Sherman - Jun 2011 \nâ€¢ Led the development team for item master cutover implementation in the US sites - Jun 2010 \nâ€¢ Coordinated with third party groups for debugging any technical issue in production.'}], 3: [{'wtitle:': 'Onsite Technical Lead'}, {'wcompany:': 'Fisher Controls International LLC'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'September 2007 to August 2010'}, {'wdescr:': 'Marshalltown, USA \n \nAs Infosys Onsite Tech Lead, I was involved in the data analysis and implementation of Oracle Manufacturing, Distribution, Planning, and Finance areas. Key responsibilities included: \n \nâ€¢ Requirements gathering and analysis \nâ€¢ Detailed Technical Design, Code Review and Testing \nâ€¢ Code Development and Performance Tuning. \nâ€¢ Coordination with team, located in India and China, for development and testing of deliverables. \nâ€¢ Implemented and supported the manufacturing facility at Italy Cernusco - Oct 2009 \nâ€¢ Implemented and supported the manufacturing facility at Mexico Toluca - Mar 2008 \nâ€¢ Put in place a process for the testing of Web reports. This included collecting functional requirements, getting the unit test plans developed and assisting the Web developers in the development of their reports.'}], 4: [{'wtitle:': 'Onsite Technical Lead'}, {'wcompany:': 'TESCOM Financial'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'March 2007 to August 2007'}, {'wdescr:': 'Minneapolis, USA \n \nTESCOM was the project for the Oracle 11i implementation for Oracle Financials modules. The project involved implementation of Oracle Applications, development of Oracle conversion, extensions, reports, and real time interfaces. Key responsibilities included: \n \nâ€¢ Requirement gathering, solution design, gap analysis and onsite co-ordination. \nâ€¢ Helping team members to resolve the Technical issues. Worked on Visual Source Safe (VSS)'}], 5: [{'wtitle:': 'Onsite Technical Consultant'}, {'wcompany:': 'ASCO France'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'March 2005 to February 2007'}, {'wdescr:': 'France \n \nI was involved in a project which was a rollout of Oracle Applications at various countries. Key activities were: \n \nâ€¢ Coding, development, and implementation of Reports, Interfaces, Conversions and Extensions \nâ€¢ Data Migration from legacy systems into Oracle across all the functional areas (both master data and transaction data). \nâ€¢ Helping team members to resolve the Technical issues.'}], 6: [{'wtitle:': 'Software Developer'}, {'wcompany:': 'EMERSON Support '}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'March 2004 to February 2005'}, {'wdescr:': 'Hyderabad, India \n \nThe project involved providing support for production users of Emerson Process Management (EPM). Key activities were: \n \nâ€¢ Working on tickets requiring knowledge of PL/SQL. \nâ€¢ Developing new/modifying existing 6i reports. \n \nWhite Paper Presented in oaug \nPresented a white paper in Oracle OAUG Florida in 2009. Below is the brief:- \n \nâ€¢ In a flat world with no boundaries local language should not be the barrier in implementing Oracle across different sites. Using Oracle BI Publisher for reports, we can determine local language at runtime and print the report in that local language in desired site specific layout and format. In the presentation the audience will learn the best way to make one oracle BI report publish, in a desired layout and format, in different local language without actually installing costly local language in the Oracle server. \n \nBI Publisher: Generating Oracle BI Report In Different Local Runtime Language \nFor more detail please refer the link in OAUG. \nhttp://oaug.org/education-events/cpd/item/613-bi-publisher-generating-oracle-bi-report-in-different-local-runtime-language \n \nTechnical Skills Training/Certifications/Awards \nâ€¢ Infosys Stock and Insta award in May 2017 &2018 for excellent execution of CISCO & Salesforce Project. \nâ€¢ Infosys Knowledge Management Reward and recognition panelist for 2017 \nâ€¢ Certified Scrum Master CSM from scrum alliance. \nâ€¢ PM Elite Lite - T200 Certification: A certification for Project Management offered by Infosys. \nâ€¢ Discrete Manufacturing, Supply Chain Management & Purchasing: Certifications in Supply Chain Management and Discrete Manufacturing offered by Infosys.'}]}","{0: [{'e_title:': 'PG'}, {'e_schoolname:': 'IIIT'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': 'March 1972 to 2018'}]}",['NONE'],"['https://www.linkedin.com/in/ashish-singh-b4b0b011', 'https://www.linkedin.com/in/ashish-singh-b4b0b011']",{},"
+â€¢ Skills: Data Management, Statistics and EDA, Advanced Analytics, Big Data, Supply Chain, Oracle Apps Financials, Project management, R, Python, Deep learning, Linear & Logistic Regression, Supervised & Unsupervised learning (K Means, Hierarchical), Support Vector machines(SVM), Association Rules Mining, Time series forecasting, Neural networks, Random Forest, Decision Tree, SQL, Hive, Spark, TABLEAU, Hypothesis Testing, PLSQL. 
+ 
+â€¢ Capstone project - Ecommerce, customer marketing analytics and recommendation engines, Market mix modelling MMM technique, Price Optimization 
+ 
+Technical Skills 
+ 
+ERP: Oracle Applications R12 (Financials, OM, Inventory, PO, BOM). 
+Analytics: Deep learning, Linear & Logistic Regression, Supervised & Unsupervised learning 
+(K Means, Hierarchical), Support Vector Machines (SVM), Time series forecasting, 
+Neural networks, Random Forest, Decision Tree 
+Databases: Oracle 9i/10g, SQL Server 2000 
+Languages: R, Python, MYSQL, SPARK, SQL, PL/SQL 
+Tools: TABLEAU, SQL Developer, BI Publisher, Workflow Builder 
+Operating Systems: Windows XP, Windows NT, UNIX 
+Agile PM tools: Rally, Jira"
+Product Manager,Bengaluru, Karnataka,"An enthusiastic, confident and reliable professional with an overall 5 years work experience - 3 years of 
+experience in pharmaceutical product management and 2 years in R&D medical devices.â€¢ 
+- Possess sound knowledge in taking up healthcare projects. 
+- Well-organised with a track record of demonstrating self-motivation, determination and creativity. 
+- Excited to meet Doctors and collaborate with them. 
+- Carry a positive attitude and eager to learn.","{0: [{'wtitle:': 'Assistant Product Manager'}, {'wcompany:': 'Trigenesis Biosciences Pvt Ltd '}, {'wcity:': ' Bengaluru'}, {'wstate:': ' Karnataka'}, {'wduration:': 'October 2018 to July 2019'}, {'wdescr:': 'Assistant Product Manager, Trigenesis Biosciences Pvt Ltd, Bengaluru (Oct 2018 â€“ July 2019): Management of brands in gynecological segment. \nResponsibilities include: \n \nâ€¢ Launched the gynecology division with 22 Brands featuring menarche to menopause, in Karnataka. \nâ€¢ Designing dedicated product artworks and product portfolio that help enhancing and building specialised brands. \n \nâ€¢ Presenting new promotional methods that help gain better brand value in the market. \nâ€¢ Analysing new and intriguing products that can help improve women healthcare in India. \nâ€¢ Planning and coordinating health camps as a part of brand promotions and devise better strategies for marketing. \n \nâ€¢ Conducting cycle meets, training programmes and design continuous educational modules for sales force. \nâ€¢ Work effectively along with cross-functional teams and translate strategic plans to all teams for successful implantation.'}], 1: [{'wtitle:': 'Therapy Manager'}, {'wcompany:': 'BRIOBLISS LIFE SCIENCE '}, {'wcity:': ' Chennai'}, {'wstate:': ' Tamil Nadu'}, {'wduration:': 'July 2016 to June 2017'}, {'wdescr:': 'Management of phyto-pharmaceutical products in Adult Care division, at Brio Bliss Life Science. \nResponsibilities include: \n \nâ€¢ Heading a division called Alpino - handling phytochemical and pharmacobiotic brands for Obstretics & Gynecology and Adult care, across India. \nâ€¢ Gain a deep understanding of therapy gaps, identify and fill product gaps and generate new ideas that drive growth. \n \nâ€¢ Manage brands for the entire life cycle from strategic planning to tactical implementation. \nâ€¢ Conduct Market analysis on competitor brands. \nâ€¢ Develop and implement go-to-market plans - engage the field workforce in brand promotional activities \nâ€¢ Scope and prioritize activities based on business and customer impact. \nâ€¢ Drive product launches including working with Medical representatives, Area Managers, and other product management team members. \n \nâ€¢ Represent the company by visiting Doctors along with the field force to collect feedback on company products and services.'}], 2: [{'wtitle:': 'Manager/Concept developer'}, {'wcompany:': 'Protien LLP '}, {'wcity:': ' Chennai'}, {'wstate:': ' Tamil Nadu'}, {'wduration:': 'April 2015 to July 2016'}, {'wdescr:': ""Responsible for the development of creative game based solution/application in the field of healthcare. 'Project \nCode Blue' is an interactive learning game developed at Protien, for Nursing students and ACLS certified \nnurses to be better prepared during emergencies. \nResponsibilities include: \n- Overall project management - Technical & organizational management of concepts \n- Conceptualization and project planning including team building \n- Preparation of Story boards, project work flow and wireframes \n- Handling Client meetings and presentations \n- Market study and analysis \n- Producing accurate project reports and updating project plan according to the delivery""}], 3: [{'wtitle:': 'R&D Engineer'}, {'wcompany:': 'Photek Ltd '}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'November 2012 to December 2014'}, {'wdescr:': ""Worked in the Research and Development of a state of the art detector system for use in the food industry as a pathogen detection system. Biolisme II was a successful collaborative research project that involved universities and organisations around Europe, to develop a rapid system for the detection of Listeria monocytogenes (Pathogenic bacteria) in food and agri industries. \nResponsibilities include: \n \nâ€¢ Complete management of the project from concept to commercialization. \nâ€¢ Development, assembly and initial marketing of a biosensor for fluorescence measurement with two detectors. \nâ€¢ Work with other members of the project Consortium to optimize the performance of the developed system. \nâ€¢ Evaluate suitable IP protection applications at national level and preparation of milestone reports. \nâ€¢ To attend and present status reports to consortium meetings. \n \nResults achieved by June 2014: \n \nâ€¢ A cost effective biosensor was successfully developed with two functioning detectors and integrated with a novel sampling system manufactured in France. \n \nâ€¢ Initial market research conducted with food industries showing high interests in the developed device prototype, following field trials completed with the developed prototype. \n \nOther work experiences/training:â€¢ \n \nâ€¢ Trainee at NHS, UK, 07/2011 - Acquired practical training from the NHS in the department of Nuclear medicine including procedures in nuclear scans, cardiac SPECT, PETCT and general aspects of radiotherapy. \n \nâ€¢ Research Team Member, University of Sussex, U K, 09/2011 - Worked in the design of cost effective diagnostic device, called the simple perimeter for effective screening of glaucoma. A successful prototype was developed and working of the device was demonstrated. \n \nâ€¢ Research Intern, DRDO, India, 03/2010 - Worked under Dr. Pandian, Scientist 'E' DRDO in the development of contact-less ECG electrodes for remote health monitoring.""}], 4: [{'wtitle:': 'Research Trainee'}, {'wcompany:': 'Frontier lifeline Hospital'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': '2009 to December 2009'}, {'wdescr:': 'Underwent training in major biomedical instrumentation systems and their operational modes in hospital environment.  \nWorking and maintenance of instruments were also studied.'}]}","{0: [{'e_title:': 'MSc in Biomedical Instrumentation'}, {'e_schoolname:': 'University of Sussex'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': 'September 2010 to September 2011'}], 1: [{'e_title:': 'BTech in Bioengineering'}, {'e_schoolname:': 'SASTRA University'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': 'June 2006 to April 2010'}]}","['MARKETING (2 years)', ' PROJECT MANAGEMENT (1 year)']",[],{},"
+Skill set 
+ 
+â€¢ Project Management: Team player, Customer facing skills, testing and implementation of business strategies, identification of client's requirements. 
+ 
+â€¢ Electronics Technology: Analogue and digital circuit design, PCB circuit design, PCB soldering, ECG and EMG sensor measurements. 
+ 
+â€¢ Marketing: Involved in device validation trials for the successful marketing of developed product prototype. 
+â€¢ Software: Altium Designer, Microsoft Visual Studio IDE, Qt Project, MPLAB microcontroller programming, LabVIEW 
+ 
+â€¢ Software languages: Visual C++, Python basic 
+ 
+â€¢ HR Skills: Communication, excellent adaptability, presentation, project management (using GANTT charts), customer service, team and independent working skills"
+NONE,NONE,NONE,"â€¢ B.E.: Bachelor of Engineering, All Saint's Collage of Engineering with 1st class.","{0: [{'wtitle:': 'PHP Developer (SR. Php developer)'}, {'wcompany:': 'Parkhya Solution Pvt. Ltd '}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'May 2015 to Present'}, {'wdescr:': ""1. Project: Trackroll (ios / android) \nTeam Size: 05 \nTechnology: PHP, iPhone, android, css, html, javascript \nDescription: This is android and IOS app, This is used to report lost electronic device.In this user can register and report their lost devices and give rewards. \nAdmin: http://admin.tvdevphp.com/trackroll/admin/ \nRole: Back end developer \n \n2. Project: Campus Community(android / ios) \nTeam Size: 04 \nTechnology: PHP, iPhone, android, css, html, javascript \nDescription: \nIt is a mobile application and admin panel for managing application. In this app user can add its profile. With app user able to post books, sale items, news also like, comments available in this app. It is like a social community of group of schools. \nAdmin: http://admin.tvdevphp.com/campus_comm/admin/ \nAndroid: https://play.google.com/store/apps/details?id=com.campuscommunity&hl=en \nRole: Back end developer \n \n3. Project: Chroma (ios) \nTeam Size: 04 \nTechnology: PHP, iPhone, css, html, javascript \nDescription: This is IOS app, this is an image contest app and user get ranking and world ranking and also can invite in contest or app. \nAdmin: http://54.149.253.15/index.php/admin \nAndroid:: https://itunes.apple.com/au/ \nRole: Back end developer \n \n4. Project: Abodearoma (drupal) \nTeam Size: 03 \nTechnology: drupal \nDescription: This is a e-commerce website. In this admin manage the fragrance and user purchase it. \nurl: http://abodearoma.com/ \nRole: Back end developer \n \n5. Project: Mediware (website / ios / android ) \nTeam Size: 05 \nTechnology: PHP, i Phone, css, HTML, JavaScript, code-igniter \nDescription: This is based on doctor and patient and it's medicine \nLink: http://mymediware.com/ \nhttps://play.google.com/store/apps/details?id=com.ps.mediware \nhttps://itunes.apple.com/us/app/mediware/id1046201813?ls=1&mt=8 \nRole: back end developer \n \n6. Project: Dingur ( android, ios) \nTeam Size: 03 \nTechnology: php, android, code-igniter, ios \nDescription: This is android and ios app.In this user can get the events in their city and can book the entry in that event. \nLink: https://play.google.com/store/apps/details?id=com.ding.dingur \nhttps://itunes.apple.com/us/app/dingur/id1045947458?ls=1&mt=8 \nRole: Back end developer \n \n7. Project: schoogle (website) \nTeam Size: 05 \nTechnology: php, css, html, javascript, code-igniter \nDescription: This is portal of schools, from there parents can find the suitable school for their child. \nLink: http://www.schoogle.co/ \nRole: developer \n \n8.Project: Sellpal(ios) \nTeam Size: 03 \nTechnology: php \nlink: https://itunes.apple.com/in/app/sellpal/id1069270604?mt=8 \n \nSome Others: \nâ€¢ caption coock: https://play.google.com/store/apps/details?id=com.ps.ccmobileapp \nâ€¢ zodiac: https://play.google.com/store/apps/details?id=com.ps.zodiacapp \nâ€¢ zimbo: https://play.google.com/store/apps/details?id=com.parkhya.zimbo \nâ€¢ mediware: https://play.google.com/store/apps/details?id=com.ps.mediware \nâ€¢ dingur: https://play.google.com/store/apps/details?id=com.ding.dingur \nâ€¢ Krave: https://play.google.com/store/apps/details?id=com.krave.kraveapp""}], 1: [{'wtitle:': 'PHP Developer (Software Engineer)'}, {'wcompany:': 'Techvalens System Pvt. Ltd '}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'September 2013 to March 2015'}, {'wdescr:': 'Indore \nDuration: From 9th Sept 2013 to 8th march 2015 (1 Year 7 Month) \nDesignation: PHP Developer (Software Engineer)'}]}","{0: [{'e_title:': 'Certificate in engineering'}, {'e_schoolname:': 'Rajeev Gandhi technical University'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2011'}], 1: [{'e_title:': 'H.S.C in M.P. Board'}, {'e_schoolname:': 'Saraswati Higher Sec. School'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2004'}], 2: [{'e_title:': 'S.S.C in M.P. Board'}, {'e_schoolname:': 'Saraswati Higher Sec. School'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2002'}]}",['NONE'],[],{},"
+â€¢ Key Skills: PHP, Javascript, Ajax, MySQL, XAMPP, Code-Igniter, MVC 
+â€¢ Good analytical skills 
+â€¢ Good technical and problem solving skills. 
+â€¢ OS - Windows 7, Ubuntu 14.04(Linux Lite). 
+â€¢ Well versed with the web services (output in json). 
+â€¢ Worked on different Tools - Dream viewer, Aptana. 
+â€¢ Worked on AWS server (centos, ubuntu) 
+â€¢ 3 year experience in php 
+Title 
+ 
+Web Developer Engineer with 3 year 1 months of experience in PHP applications. 
+ 
+Technical Skills 
+Web Technologies: PHP, Ajax, Javascript, HTML, CSS 
+Programming Languages: PHP, Code-Igniter, MVC 
+DBMS/RDBMS: MySQL 
+Web Server: Apache 
+Tools: MS Office 
+ 
+Operating Systems: Microsoft Windows 98/2000/XP, Ubantu 
+Experience: 3.1 Year"
+NONE,Vadodara, Gujarat,"Looking for a challenging career which demands the best of my professional ability in terms 
+of Designing and Analytical skills, and helps me in broadening and enhancing my current 
+skill and knowledge.","{0: [{'wtitle:': 'Jr. Web Developer'}, {'wcompany:': 'N'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'Present'}, {'wdescr:': 'NONE'}]}","{0: [{'e_title:': ""Bachelor's in Information Technology""}, {'e_schoolname:': 'MBICT'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2012'}]}","['ADOBE PHOTOSHOP (Less than 1 year)', ' ANDROID (Less than 1 year)', ' C# (Less than 1 year)', ' C++ (Less than 1 year)', ' CSS (Less than 1 year)']",[],{},"
+TECHNICAL SKILLS & ABILITIES: 
+â€¢ Efficient in MS Office (MS Word, MS Excel, MS PowerPoint). 
+ 
+â€¢ Operating system: WINDOWS 7,8, 10, LINUX ( UBANTU) 
+ 
+â€¢ Programming languages: - C, C++, HTML(basics), CSS, C#(basics), 
+Android(basics) 
+ 
+â€¢ Graphics: Adobe Photoshop, Adobe Dreamweaver, Stencyl (game engine), 
+Illustrator (basics). 
+ 
+â€¢ Documentation Preparing, Designing Flow of Process."
+Associate Angular Developer - WEBGILE SOLUTION,Nagpur, Maharashtra,"â€¢ 6 month of experience in Developing User Interface for Internet Application with Front End Technologies which are 
+Angular, HTML, Javascript, Bootstrap, CSS. 
+â€¢ Knowledge of database MySQL and Programming language PHP, Nodejs. 
+â€¢ Always ready to adopt new technology and passionate about my work.","{0: [{'wtitle:': 'Associate Angular Developer'}, {'wcompany:': 'WEBGILE SOLUTION'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'April 2019 to Present'}, {'wdescr:': 'Duration: 6 Months \nProject: AdsmartV2 \nTechnology: Angular 7, Nodejs \nDescription: This platform has all the information of outdoor advertisement on a very detailed level of \nMany Countries. Basically a collection of data about all outdoor advertising of all brands and \nSelling it .to Brands Owners and competitor per brands. \nLink: http://18.232.45.127/'}], 1: [{'wtitle:': 'Intern'}, {'wcompany:': 'ALMIGHTY Technology'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'August 2016 to February 2018'}, {'wdescr:': 'Duration: 6 Months \nProject: 1.app.ramanservices.com \n2. www.almightytechpvtltd.com \n \nTechnology: PHP, HTML, CSS, Javascript. \nDescription: app.ramanservices is a retail software where admin can maintained the Selling product and \nCustomer related information.'}]}","{0: [{'e_title:': 'Diploma'}, {'e_schoolname:': 'Nagpur Polytechnic Nagpur'}, {'e_city:': 'Nagpur'}, {'e_state:': ' Maharashtra'}, {'e_duration:': '2015'}], 1: [{'e_title:': 'NONE'}, {'e_schoolname:': 'Prashant Highschool Nagpur'}, {'e_city:': 'Nagpur'}, {'e_state:': ' Maharashtra'}, {'e_duration:': '2012'}]}","['CSS (1 year)', ' HTML (1 year)', ' JAVASCRIPT (1 year)', ' PHP (1 year)', ' BOOTSTRAP (Less than 1 year)', ' Angular 7']",[],{},"
+IT SKILLS 
+â€¢ Programming Languages: Typescript, Javascript, PHP, Nodejs 
+â€¢ Database: MYSQL. 
+â€¢ Web Technology: HTML, CSS, jQuery. 
+â€¢ Frameworks: Angular 7 and Bootstrap 4. 
+â€¢ Operating System: windows, Ubantu. 
+ 
+PERSONAL SNIPPETS"
+"ReactNative Developer, Ios Developer - Xunison Ltd",Surat, Gujarat,"To achieve a challenging position as an Information Technology Engineer, that will utilize my 
+acquired skills and knowledge in system maintenance with sincerity and dedication to team 
+dynamics with a greater responsibility. 
+I look forward to associate myself with an organization, where I have an opportunity to share, 
+contribute and upgrade my knowledge for development of self and organization served.","{0: [{'wtitle:': 'React Native Developer'}, {'wcompany:': 'Devswifter '}, {'wcity:': ' Surat'}, {'wstate:': ' Gujarat'}, {'wduration:': 'August 2019 to Present'}, {'wdescr:': 'I m a reactnative developer as well as ios core developer in this company'}], 1: [{'wtitle:': 'ReactNative Developer, Ios Developer'}, {'wcompany:': 'Xunison Ltd '}, {'wcity:': ' Surat'}, {'wstate:': ' Gujarat'}, {'wduration:': 'June 2018 to July 2019'}, {'wdescr:': 'Surat'}]}","{0: [{'e_title:': 'H.S.C'}, {'e_schoolname:': 'Mauni International School'}, {'e_city:': 'Surat'}, {'e_state:': ' Gujarat'}, {'e_duration:': '2012 to 2013'}], 1: [{'e_title:': 'H.S.C'}, {'e_schoolname:': 'Sarswati School'}, {'e_city:': 'Surat'}, {'e_state:': ' Gujarat'}, {'e_duration:': '2010 to 2011'}]}","['ANDROID (Less than 1 year)', ' ANDROID SDK (Less than 1 year)', ' API (Less than 1 year)', ' C++ (Less than 1 year)', ' CASTING (Less than 1 year)']","['https://www.linkedin.com/in/savan-sonani-', 'https://twitter.com/Savan_Sonani', 'https://www.linkedin.com/in/savan-sonani-', 'https://twitter.com/Savan_Sonani']",{},"
+Skills 
+React, JavaScript, Swift, JSON, XML Parsing, Web Services, Basic 
+Programming Language Android And java, Basic Objectiv C, 
+Mobile Payments, Third Party Library Integration, 
+Basic of C And C++. 
+ 
+Design UI/UX Designing, Material Design, Basic of Photoshop 
+Operating System Mac OS, Windows OS, Ubantu OS 
+Database Realm, SQLite 
+Web Technologies HTML, CSS, Basic of PHP 
+Tools Xcode, Android Studio, Firebase Console, Android SDK 
+Social API integration, Realm Studio, VSCode, TizenStudio, 
+Bit bucket, Jira, Git, Source tree 
+ 
+Project 
+ 
+CRUD Generator System in 6th Semester 
+â€¢ Description: CRUD Generator is use for manage database and perfome 
+Create, Read, Update, Delete operation in databse table and generate insert, update, delete 
+query for selected tables and maintain databse in this Project. 
+â€¢ Front-end: Javascript, Php 
+â€¢ Back-end: SQLite 
+â€¢ Duration: 3 Months 
+â€¢ Developed at: At Weenggs Technolabs Pvt. Ltd. Surat, Gujarat. 
+Project 
+ 
+â€¢ Streaming Apps â€¢ MusicPlayer Apps 
+â€¢ Image Processing Apps â€¢ AppleTV Apps 
+â€¢ Safe Vault Apps â€¢ Casting Apps 
+â€¢ Android Tv Apps â€¢ Video Player Apps 
+â€¢ IPTV Apps â€¢ Content Apps"
+NONE,Bengaluru, Karnataka,"Aim to be associated with a progressive organization that gives me the scope to apply my 
+knowledge and skills especially in software development and to drive as a team that 
+dynamically works towards the growth of the organization.","{0: [{'wtitle:': 'Software developer'}, {'wcompany:': 'N'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'NONE'}, {'wdescr:': 'Project #1: \nProject Title: BMTC easy Travel Information Planner \nPosition: Intern \nCompany: Vapptek Software Solutions Pvt. Ltd. \n \nDescription: Objective of the project was to guide users or passengers to the BMTC bus \n \nroutes and to provide daily updates on the route changes. Users can also complain about the \nunavailability of the BMTC buses in the particular route or any other problems with the BMTC. \nUsers can also get daily passes through the application software \n \nProject #2: \nProject Title: Crime File Management System \nDescription: Objective of the crime file system was to report crimes in the police stations. The \nproject was done using VB 6.0 as front end, and MS Access as back end. This system will help \nto manage all the activities in a police station through computers which are replacement to the \nmanual time consuming works which are currently in practice. Computation of all these works \nincreases the efficiency and brings about better management system \n \nPage 2of 3 \nProject #3: \nProject Title: Matrimonial Services \nDescription: The main objective of the project was to provide Grooms and Brides with excellent \nonline matchmaking experience by exploring different individuals of their wish and dreams to be \nhis/ hers partner. After registering with the site the users can search other individuals according \nto their required criteria qualification, religion, or their profile picture. The individual will provide \nall compulsory information to get registered so that the other individual can view.'}]}","{0: [{'e_title:': 'MCA in Computer Applications in Computer Applications'}, {'e_schoolname:': 'CMR Institute of Technology'}, {'e_city:': 'Bengaluru'}, {'e_state:': ' Karnataka'}, {'e_duration:': '2018'}], 1: [{'e_title:': 'BCA in Computer Science in Computer Science'}, {'e_schoolname:': 'Adarsha College of Management'}, {'e_city:': 'Kolar'}, {'e_state:': ' Karnataka'}, {'e_duration:': '2015'}], 2: [{'e_title:': 'SSLC'}, {'e_schoolname:': 'Government High School Nayakarahalli'}, {'e_city:': 'Kolar'}, {'e_state:': ' Karnataka'}, {'e_duration:': '2010'}]}","['C++', ' HTML', ' LINUX', ' JAVA', ' CSS']",[],{},"
+Skill set: Software languages 
+ 
+Ã˜ CORE JAVA 
+ 
+Ã˜ Java Script 
+ 
+Ã˜ HTML with CSS 
+ 
+Ã˜ C 
+ 
+Ã˜ C++ 
+ 
+Other skills 
+ 
+Page 1of 3 
+Operating Systems worked with: 
+Ã˜ Linux 
+ 
+Ã˜ Ubantu 
+ 
+Ã˜ WINDOWS 7,8, XP 
+ 
+Strength 
+ 
+Ã˜ Have good decision making and analytical skills, Self-motivated 
+ 
+Ã˜ Have knowledge to debug the errors."
+Web Developer,Aurangabad, Maharashtra,NONE,"{0: [{'wtitle:': 'Web developer'}, {'wcompany:': 'Boostmedia'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'Present'}, {'wdescr:': 'Web Developer'}], 1: [{'wtitle:': 'Web Developer, Kokanwadi, Aurangabad'}, {'wcompany:': 'Boost Media Solutions'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'December 2018 to December 2019'}, {'wdescr:': 'I am web developer to desgin frontend and backend. To make database design.'}], 2: [{'wtitle:': 'Web Developer, Software IT Park, Aurangabad'}, {'wcompany:': 'Afra Techno Solutions Pvt Ltd'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'July 2018 to December 2018'}, {'wdescr:': 'NONE'}], 3: [{'wtitle:': 'Internship Done'}, {'wcompany:': 'Omega Soft Technologies Pvt. Ltd'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'December 2017 to May 2018'}, {'wdescr:': 'Technical Skill:- \n \nâ€¢ Skills: - PHP 5 & 7, MySQL, Ajax, jQuery, JavaScript, HTML 5, CSS 3, XML, Angular Js, 2. \nâ€¢ PHP Framework: - Codeigniter, Laravel. \nâ€¢ Payment Gateways: PayU Money, Paytm, PayPal. \nâ€¢ SMS API Integration. \nâ€¢ WEB Server: Xampp, WAMP. \nâ€¢ Operating Systems: - MS Windows XP / VISTA / 7 / 8 / 8.1, Ubantu. \nâ€¢ Tools / Software: Notepad++, Sublime, Dreamweaver, Php Strom, Xampp MySQL. \nâ€¢ Web Browser and Server: - IE, Mozilla Firebox, Google chrome, Xampp and Wampp Server, MySql Server. \nâ€¢ MS Office: - MS Word, MS Excel, MS PowerPoint, MS Outlook. \nâ€¢ Web Hosting: - Domain, DNS, E-Mail, FTP, SSL, Big Rock, Name cheap.'}]}","{0: [{'e_title:': 'Master of Computer Application'}, {'e_schoolname:': 'Modern College of Art Commerce And Science'}, {'e_city:': 'Pune'}, {'e_state:': ' Maharashtra'}, {'e_duration:': '2018'}], 1: [{'e_title:': 'Bachelor of Computer Science in Computer Science'}, {'e_schoolname:': 'Dr. Babasaheb Ambedkar University'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2014'}], 2: [{'e_title:': 'Education'}, {'e_schoolname:': 'Jr. Raja Shivaji College of Science'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2011'}], 3: [{'e_title:': 'Secondary School Certificate'}, {'e_schoolname:': 'Marathwada Institute of Technology'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': '2009'}]}","['CODING', ' HTML', ' JAVASCRIPT', ' BOOTSTRAP', ' PHP']",[],{},"
+Key Skills:- 
+ 
+â€¢ Hands on experience in Coding, Testing, Implementation/Maintenance Support in PHP and MySQL. 
+â€¢ Experience in database designing with MySQL. 
+â€¢ Hand experience in E-commerce Website. 
+â€¢ Quick learner and eager to learn new technologies 
+â€¢ Integration Ability: Understanding and integrating third party web services 
+â€¢ Client-side programming: JavaScript, AJAX, DOM, Jquery. 
+â€¢ CGI (Common Gateway Interface) 
+ 
+Role & Contribution:- 
+ 
+â€¢ Development of reusable code. 
+â€¢ Development and implementation of Core functionality and support tools. 
+â€¢ Understand the business and functional requirements. 
+â€¢ Iterative testing and code reviews through development of the application. 
+â€¢ Developed the system Unit. 
+â€¢ Integration Testing & debugging. 
+â€¢ Strong programming skills, as well as the ability to read and code review complex code bases written by other. 
+â€¢ Good problem solving ability. 
+ 
+PROJECT UNDERTAKEN:- 
+ 
+Project 1: - Maharashtra Auto Service Center. 
+ 
+Objective: - This application is web application that will be used for managing 
+ 
+Day to day task of service center. The objective of the vehicle service 
+ 
+Is to provide better information for the users of this system for 
+ 
+Better results for their maintenance in the product details, i.e. sales, 
+ 
+Purchase and stocks. 
+ 
+Language is Implementing: - HTML 5, CSS 3, BOOTSTRAP 4, JQUERY, JAVASCRIPT, AJAX, 
+ 
+ANGULAR Js, KENDO UI, JAVA with Spring MVC, MySQL Database. 
+ 
+Project 2: - Ecommerce Website. 
+ 
+Objective: - E-commerce is the activity of buying or selling of products on online services or over. 
+the Interne. Integrated payumoney payment gateway. 
+ 
+Language is Implementing: - HTML 5, CSS 3, BOOTSTRAP 4, JQUERY, JAVASCRIPT, AJAX, MySQLi Database. 
+Project 3: - Job-Portal Website. 
+ 
+Objective: - A job portal, also known as a career portal, is a modern name for an online job board 
+That help applicant find jobs and post job for employer. job portals that offer a broad 
+range of jobs in a vast n umber of fields. In this also membership non - membership 
+ 
+Language is Implementing: - HTML 5, CSS 3, BOOTSTRAP 4, JQUERY, JAVASCRIPT, AJAX, MySQLi Database. 
+ 
+Project 4: - Web-GST Website. 
+ 
+Objective: - A web gst portal, is a for an online webgst purchase order, product entry, sale 
+entry, generate invoice. That help company to manage all product stocks. 
+ 
+Language is Implementing: - HTML 5, CSS 3, BOOTSTRAP 4, JQUERY, JAVASCRIPT, AJAX, MySQLi Database."
+Scientist C - Non-Medical,Gorakhpur, Uttar Pradesh,"Presently working on haemoglobinopathies as Scientist- C for Model Rural Health Research Unit (MRHRU), Badoni, Datia (M.P.) under Department of Health Research, Ministry of Health and Family Welfare, Government of India. Learned editing of manuscripts while working in Publication Division of ICMR - National Institute of Malaria Research, Delhi, experienced in teaching to undergrads (environmental studies), well versed with Drosophila cultures, life history traits assays and biochemical experiments during Ph.D. tenure from Department of Zoology, University of Delhi and isolation of bacteria and other techniques towards development of biopesticides in Indian Agriculture Research Institute (IARI), Pusa, Delhi. Consequently, developed strong interest in research, became hardworking, continuous learner and a good planner. Core strengths are career oriented, has focused approach towards task on hand, self-motivated and very organized.","{0: [{'wtitle:': 'Scientist C'}, {'wcompany:': 'Non'}, {'wcity:': 'NONE'}, {'wstate:': 'NONE'}, {'wduration:': 'February 2019 to Present'}, {'wdescr:': 'Department of Health Research, Ministry of Health and Family Welfare, Government of India under mentorship of ICMR-National Institute for Research in Tribal Health, Jabalpur. Responsibilities included looking after scientific projects and administrative work of the unit. \nâ€¢ Working experience of 2 years (Feb 06, 2017- Feb 05, 2019) at ICMR-National Institute of Malaria Research, Dwarka, Delhi; as Consultant in Publication Division (in Journal of Vector Borne Diseases) . Responsibilities included initial screening and assignment of manuscripts to reviewers, editing of accepted manuscripts to be published in JVBD, compilation and editing of annual reports and other publications (newsletter etc.) of the institute.'}], 1: [{'wtitle:': 'Visiting faculty'}, {'wcompany:': 'Environmental Studies '}, {'wcity:': ' Delhi'}, {'wstate:': ' Delhi'}, {'wduration:': 'September 2016 to January 2017'}, {'wdescr:': 'at Asian Business School of Management (ranked top 15 B-schools in India) . (From 13th September, 2016 - 13th January, 2017) \nâ€¢ 5 years of experience in culturing techniques and maintenance of Drosophila melanogaster populations in laboratory while studying its life history traits and biochemical assays (registered in July 13, 2012; thesis submit in June 30, 2016; viva in May 13, 2017; Awarded in November 18, 2017) + one year of M.Phil. in same lab (2010-2011) \nâ€¢ Assisted in practical classes of M.Sc. (of Entomology and Animal Behaviour Course - certificates included from July 2014 - November 2014; January 2015 - May 2015 and July 2015 - November 2015) in Department of Zoology, University of Delhi (north campus) \nâ€¢ Worked as JRF in Indian Agriculture Research Institute (I.A.R.I), Pusa, Delhi under Dr. Vinay Kalia (senior scientist), P.I. of the project ""Characterization of native Bacillus thuringiensis (Bt) isolates and their evaluation for the insecticidal activity towards agriculturally important pests for the development of biopesticides"" (From 6th March, 2012-7th July, 2012)'}]}","{0: [{'e_title:': 'Ph.D. in supervision of Prof'}, {'e_schoolname:': 'University of Delhi'}, {'e_city:': 'Delhi'}, {'e_state:': ' Delhi'}, {'e_duration:': '2017'}], 1: [{'e_title:': 'M.Phil. in supervision of Prof'}, {'e_schoolname:': 'University of Delhi'}, {'e_city:': 'Delhi'}, {'e_state:': ' Delhi'}, {'e_duration:': '2011'}], 2: [{'e_title:': 'M.Sc. in Zoology'}, {'e_schoolname:': 'Miranda House, University of Delhi'}, {'e_city:': 'Delhi'}, {'e_state:': ' Delhi'}, {'e_duration:': '2010'}], 3: [{'e_title:': 'B.Sc. in Zoology'}, {'e_schoolname:': ""St. Joseph's College for Women, DDU Gorakhpur University""}, {'e_city:': 'Gorakhpur'}, {'e_state:': ' Uttar Pradesh'}, {'e_duration:': '2008'}], 4: [{'e_title:': 'CBSE in English, Hindi, Biology, Physics, Chemistry'}, {'e_schoolname:': 'Army School'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': 'December 2004'}], 5: [{'e_title:': 'CBSE in English, Hindi, Mathematics'}, {'e_schoolname:': 'Air Force School'}, {'e_city:': 'NONE'}, {'e_state:': 'NONE'}, {'e_duration:': 'October 2002'}]}","['BACTERIA (Less than 1 year)', ' BIOASSAYS (Less than 1 year)', ' ELISA (Less than 1 year)', ' ESTIMATION (Less than 1 year)', ' EXCEL (Less than 1 year)']",[],{},"
+COMPUTER PROFICIENCY: 
+Operating Systems: Windows, MS office, Word, Excel, PowerPoint, Microsoft Internet Explorer. 
+ 
+TECHNICAL & SCIENTIFIC SKILLS: 
+â€¢ Techniques known are PCR, Elisa, Bradford method of protein estimation, culturing and harvesting of Bacteria (B. thuringeinesis) and doing bioassays. Well versed with preparation of cultures of different insect species like Spodoptera litura, Helicoverpa armigera, Plutella xylostella, Henosepilachna vigintioctopunctata etc. while working in VHT lab. Culturing of Drosophila populations as well. 
+â€¢ Class Representative in D.U for M.Sc. final year (Entomology)"
+Assistant Professor,Bengaluru, Karnataka,"PROFESSIONAL SUMMARY: 
+ 
+I am a Assistant Professor of Computer Science and Specializing in Artificial Intelligence. 
+ 
+CAREER HIGHLIGHTS 
+ 
+â€¢ 15 years of Academic and 2.5 years of Industry experience, with innovative and technical background.","{0: [{'wtitle:': 'Assistant Professor'}, {'wcompany:': 'Greater Noida Institute of Technology , Greater Noida '}, {'wcity:': ' Noida'}, {'wstate:': ' Uttar Pradesh'}, {'wduration:': 'August 2010 to 2019'}, {'wdescr:': 'Assistant Professor-- Information Technology'}], 1: [{'wtitle:': 'Assistant Professor'}, {'wcompany:': 'R.D. Engineering College '}, {'wcity:': ' Ghaziabad'}, {'wstate:': ' Uttar Pradesh'}, {'wduration:': 'April 2009 to August 2010'}, {'wdescr:': 'Course Taken: Artificial Intelligence, Soft Computing'}], 2: [{'wtitle:': 'Sr.Lecturer'}, {'wcompany:': 'Indraprastha Engineering College '}, {'wcity:': ' Ghaziabad'}, {'wstate:': ' Uttar Pradesh'}, {'wduration:': 'January 2008 to March 2009'}, {'wdescr:': 'Course Taken: Artificial Intelligence, Computer Graphics'}], 3: [{'wtitle:': 'Lecturer'}, {'wcompany:': 'Raj Kumar Goel Institute of Technology '}, {'wcity:': ' Ghaziabad'}, {'wstate:': ' Uttar Pradesh'}, {'wduration:': 'January 2005 to January 2008'}, {'wdescr:': 'Course Taken: Artificial Intelligence, Computer Graphics, Web Technology, \n \nData Compression'}], 4: [{'wtitle:': 'Team Member ( Developer)'}, {'wcompany:': 'Eventure Technologies '}, {'wcity:': ' New Delhi'}, {'wstate:': ' Delhi'}, {'wduration:': 'March 2002 to December 2004'}, {'wdescr:': 'Environment: Swing, AWT, J2SE \n \nPeriod: March 2002 - Dec 2004 \nADMINISTRATIVE EXPERIENCE'}]}","{0: [{'e_title:': 'Ph.D.(Pursuing) in Computer Science and Engineering'}, {'e_schoolname:': 'Jaypee University of Information Technology'}, {'e_city:': 'Solan'}, {'e_state:': ' Himachal Pradesh'}, {'e_duration:': '2018 to 2022'}], 1: [{'e_title:': 'M.Tech - Computer Science in Computer Science'}, {'e_schoolname:': 'Institution of Electronics & Telecommunication Engineers'}, {'e_city:': 'New Delhi'}, {'e_state:': ' Delhi'}, {'e_duration:': '2001 to 2004'}], 2: [{'e_title:': 'M.Sc. in Electronics'}, {'e_schoolname:': 'University of Lucknow'}, {'e_city:': 'Lucknow'}, {'e_state:': ' Uttar Pradesh'}, {'e_duration:': '1996 to 1998'}]}","['A.I.', ' Python', ' Java', ' Neural Network']",[],{},"
+KEY SKILLS 
+ 
+Methodologies: Neural Network (ANN, CNN), Classification & Clustering algorithm, NLP 
+Language: Python, Java, J2EE, Julia"
