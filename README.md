@@ -37,38 +37,38 @@ Uses Cosine similarity to find the closest match and recommend top (n) matches
 
 ## Directory Details
 
-### 1-Data_gathering_EDA 
+### [1-Data_gathering_EDA](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/tree/master/1-Data_gathering_EDA)
 Job_EDA.ipynb  - File to gather raw data from csv and EDA on JOBS
 Resume_EDA -  File to gather raw data from csv and EDA on Resumes
 fuzzy-wuzzy-logic-Resume_EDA.ipynb – To obtain similar titles based on score. We see similar titles written in different forms like Java Developer, Dev (java), Jave Deve. Etc which all should be only Java Developer. Fuzzy -wuzzy helps resolving the issue.
 
-### 2-Preprocessing_and_Modelling
+### [2-Preprocessing_and_Modelling](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/tree/master/2-Preprocessing_and_Modelling)
 Pre-processing Jobs for modellingv1.ipynb – First iteration of Doc2Vec Model on Jobs text Data
 Pre-processing Jobs for modellingv2.ipynb – Second and final iteration of Doc2Vec Model on Jobs 
 Pre-processing_Resume for matchingv1.ipynb - First iteration of Doc2Vec Model on resume text Data
 Pre-processing_Resume for matchingv2.ipynb - Second and final iteration of Doc2Vec Model on resume
 ** one can just look into v2 to understand the flow.
 
-### 3-Matching_Sprints
+### [3-Matching_Sprints](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/tree/master/3-Matching_Sprints)
 Sprint1_matching_resume_to_jobs.ipynb
 Sprint2_matching_resume_to_jobs-with-location-add-on.ipynb
 Sprint3_matching_resume_to_jobs-with-text-add-on.ipynb
 Sprint4_matching_resume_to_jobs-final.ipynb
 
-### 4-Top_recommendations
+### [4-Top_recommendations](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/tree/master/4-Top_recommendations)
 job_output.py – Python file to run streamlit to see more intercative user interface to input resume and get top 10 jobs
 center.css – Support file to help align text / images to center
 load_css.py – support file for better UI
 style.css – support file for color coding in streamlit
 ** one can focus only on job_output.py for understanding the code
 
-### 5-Images
+### [5-Images](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/tree/master/5-Images)
 Contains images used / created during coding
 
 ### 6-Model
 Contains the final model, so just load, and run the model (Doc2Vec model trained on 40,000 jobs with 20-D vectors and 200 epochs)
 
-### Data  
+### [Data](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/tree/master/Data)  
 Due to file size limitations showing samples datasets.
 
 •	Resumes: Contains sample 15 resumes in .csv format (look and feel of dataset)
