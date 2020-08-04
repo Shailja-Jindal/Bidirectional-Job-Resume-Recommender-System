@@ -1,0 +1,22 @@
+.highlight {
+  border-radius: 0.2rem;
+  color: white;
+  padding: 0.1rem;
+  margin-bottom: 1rem;
+}
+.bold {
+  padding-left: 1rem;
+  font-weight: 700;
+}
+.blue {
+  background-color: rgba(19, 179, 139, 0.842);
+}
+.red {
+  background-color: rgb(207, 79, 79);
+}
+.orange {
+  background-color: rgb(202, 107, 17);
+}
+.green {
+  background-color: rgb(19, 190, 42);
+}
