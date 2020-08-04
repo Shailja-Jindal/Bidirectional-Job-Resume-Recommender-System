@@ -26,7 +26,8 @@ Project involves extensive use of NLP features as in:
 
 
 ## Model
-Text data is trained on Doc2Vec Model.
+
+Text data is trained on **Doc2Vec** Model. Doc2Vec uses NLP but rather than working on frequency of each word, Doc2Vec can create a numeric representation of each  document by providing n-dimensional vectors.
 
 Uses Cosine similarity to find the closest match and recommend top (n) matches
 
