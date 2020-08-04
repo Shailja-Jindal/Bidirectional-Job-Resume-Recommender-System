@@ -31,7 +31,8 @@ Text data is trained on Doc2Vec Model.
 Uses Cosine similarity to find the closest match and recommend top (n) matches
 
 ## Directory Structure 
-https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/blob/master/5-Images/Directory_Structure.png
+![image](https://github.com/Shailja-Jindal/Bidirectional-Job-Resume-Recommender-System/blob/master/5-Images/Directory_Structure.png)
+
 
 ## Directory Details
 
